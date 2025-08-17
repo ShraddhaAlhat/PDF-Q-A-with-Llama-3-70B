@@ -1,0 +1,9 @@
+gradio
+google-generativeai
+pdfplumber
+faiss-cpu
+langchain
+numpy
+groq
+python-dotenv
+
